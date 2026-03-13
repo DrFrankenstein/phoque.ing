@@ -6,4 +6,4 @@ title = 'Hi!'
 # Hi!
 I'm Carl. I write code.
 
-Find me on [Bluesky](https://bsky.app/profile/phoque.me).
+Find me on [Bluesky](https://bsky.app/profile/phoque.ing).
