@@ -10,3 +10,7 @@ when I'm inspired. I hang out with furries a lot (they call me Plouf).
 
 There isn't much on this site yet; until then, find me on
 [Bluesky](https://bsky.app/profile/phoque.ing).
+
+## Why does this site look like it was made in 1996?
+I'm a coder, not a designer. And this is just a
+[motherphoquing website](https://motherfuckingwebsite.com/).
