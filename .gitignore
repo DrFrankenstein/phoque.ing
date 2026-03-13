@@ -1,3 +1,6 @@
 /.vscode
 /public
 /resources
+
+frontmatter.json
+/.frontmatter
