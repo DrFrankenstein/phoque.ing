@@ -1,6 +1,7 @@
 baseURL = 'https://phoque.ing/'
 languageCode = 'en-us'
 title = "Plouf's phoque.ing site"
+sectionPagesMenu = 'main'
 
 [caches]
   [caches.images]
